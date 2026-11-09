@@ -6,10 +6,11 @@ A home for personal projects by [alterGolden](https://github.com/alG-N), with in
 
 | Project | Focus |
 | --- | --- |
-| Aetheris-UmaBotter | Windows automation for Umamusume training on Steam and BlueStacks. |
+| Aetheris | Windows automation for Umamusume training on Steam and BlueStacks. |
 | ShoukakuBot | A Discord utility bot with music, downloads, integrations, and moderation. |
 | UmaClub | A Discord bot for Umamusume fan tracking, leaderboards, and daily reports. |
 | [FumoBOT](https://github.com/alterGolden-Development-Team/FumoBOT) | A multipurpose Discord bot with fun commands, economy, and custom features. |
+| [alterGoldenBossfight](https://github.com/alterGolden-Development-Team/alterGoldenBossfight) | A Roblox game about The Golden Encounter, mainly alterGolden bossfight! |
 
 Some projects are private and available to invited collaborators.
 
