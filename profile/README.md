@@ -10,7 +10,8 @@ A home for personal projects by [alterGolden](https://github.com/alG-N), with in
 | ShoukakuBot | A Discord utility bot with music, downloads, integrations, and moderation. |
 | UmaClub | A Discord bot for Umamusume fan tracking, leaderboards, and daily reports. |
 | [FumoBOT](https://github.com/alterGolden-Development-Team/FumoBOT) | A multipurpose Discord bot with fun commands, economy, and custom features. |
-| [Unfair Bossfight](https://github.com/alterGolden-Development-Team/alterGoldenBossfight) | A Roblox game about the most unfair bossfight that ever made! |
+| [Unfair Bossfight](https://github.com/alterGolden-Development-Team/alterGoldenBossfight) | A Roblox game about the most unfair boss fight ever made! |
+| [Discord Rich Presence](https://github.com/alterGolden-Development-Team/DiscordRichPresence) | A Discord rich presence that shows activity on YouTube or any anime website. |
 
 Some projects are private and available to invited collaborators.
 
